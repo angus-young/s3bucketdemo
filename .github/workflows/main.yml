@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: my-sample-app
+      IMAGE_NAME: s3tfdemo
       HUMANITEC_ORG: my-humanitec-org # Make sure to change this
 
     steps:
