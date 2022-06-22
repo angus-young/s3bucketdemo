@@ -13,7 +13,7 @@ jobs:
 
     env:
       IMAGE_NAME: s3tfdemo
-      HUMANITEC_ORG: angus-test # Make sure to change this
+      HUMANITEC_ORG: angus-demo # Make sure to change this
 
     steps:
       - name: Checkout
